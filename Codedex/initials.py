@@ -1,0 +1,8 @@
+print ("L            U           U")
+print ("L            U           U")
+print ("L            U           U")
+print ("L            U           U")
+print ("L            U           U")
+print ("L            U           U")
+print ("L            U           U")
+print ("LLLLLLLLL    UUUUUUUUUUUUU")
